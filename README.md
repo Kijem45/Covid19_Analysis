@@ -1,5 +1,6 @@
 # Covid19_Analysis
-![fusion-medical-animation-EAgGqOiDDMg-unsplash](https://github.com/Kijem45/abs/assets/147368327/18e9cc92-486e-4004-84d9-7cec88086733)
+![fusion-medical-animation-EAgGqOiDDMg-unsplash](https://github.com/Kijem45/Covid19_Analysis/assets/147368327/704514c1-1e3c-4223-aab5-d6ad605fb483)
+
 
 This project was done by analysing the effect covid-19 had globally. How it increased from one country to another,
 death rate, and how it affected the world generally. 
