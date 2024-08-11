@@ -29,3 +29,6 @@ I used python in a jupyter notebook to clean my data
 --------------------------------------------------------------------------------------------------------------------------------------
 The data i used for this project was gotten from Our World in Data
 [Visualization with flourish](https://app.flourish.studio/visualisation/15434196/edit)
+
+---------------------------------------------------------------------------------------------------------------------------------------
+You will need a flourish account to be able to view this visualisation.
